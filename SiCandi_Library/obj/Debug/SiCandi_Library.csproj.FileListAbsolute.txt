@@ -1,0 +1,146 @@
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi_Library\bin\Debug\SiCandi_Library.dll.config
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi_Library\bin\Debug\SiCandi_Library.dll
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi_Library\bin\Debug\SiCandi_Library.pdb
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.dll
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi_Library\bin\Debug\MySql.Data.dll
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi_Library\bin\Debug\MySql.Data.Entity.EF6.dll
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.xml
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.csprojResolveAssemblyReference.cache
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.dll
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.pdb
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.Migrations.INICIAL.resources
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.csproj.GenerateResource.Cache
+C:\Users\Chriktian\Documents\Visual Studio 2013\Projects\SiCandi_Library\SiCandi_Library\bin\Debug\SiCandi_Library.dll.config
+C:\Users\Chriktian\Documents\Visual Studio 2013\Projects\SiCandi_Library\SiCandi_Library\bin\Debug\SiCandi_Library.dll
+C:\Users\Chriktian\Documents\Visual Studio 2013\Projects\SiCandi_Library\SiCandi_Library\bin\Debug\SiCandi_Library.pdb
+C:\Users\Chriktian\Documents\Visual Studio 2013\Projects\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.dll
+C:\Users\Chriktian\Documents\Visual Studio 2013\Projects\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Chriktian\Documents\Visual Studio 2013\Projects\SiCandi_Library\SiCandi_Library\bin\Debug\MySql.Data.dll
+C:\Users\Chriktian\Documents\Visual Studio 2013\Projects\SiCandi_Library\SiCandi_Library\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Chriktian\Documents\Visual Studio 2013\Projects\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.xml
+C:\Users\Chriktian\Documents\Visual Studio 2013\Projects\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Chriktian\Documents\Visual Studio 2013\Projects\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.csprojResolveAssemblyReference.cache
+C:\Users\Chriktian\Documents\Visual Studio 2013\Projects\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.Migrations.INICIAL.resources
+C:\Users\Chriktian\Documents\Visual Studio 2013\Projects\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.csproj.GenerateResource.Cache
+C:\Users\Chriktian\Documents\Visual Studio 2013\Projects\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.dll
+C:\Users\Chriktian\Documents\Visual Studio 2013\Projects\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.pdb
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi_Library\bin\Debug\SiCandi_Library.dll.config
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi_Library\bin\Debug\SiCandi_Library.dll
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi_Library\bin\Debug\SiCandi_Library.pdb
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.dll
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi_Library\bin\Debug\MySql.Data.dll
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi_Library\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.xml
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.csprojResolveAssemblyReference.cache
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.Migrations.INICIAL.resources
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.csproj.GenerateResource.Cache
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.dll
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.pdb
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi_Library\bin\Debug\SiCandi_Library.dll.config
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi_Library\bin\Debug\SiCandi_Library.dll
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi_Library\bin\Debug\SiCandi_Library.pdb
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.dll
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi_Library\bin\Debug\MySql.Data.dll
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi_Library\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.xml
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.csprojResolveAssemblyReference.cache
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.Migrations.INICIAL.resources
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.csproj.GenerateResource.Cache
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.dll
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.pdb
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.Migrations.INICIAL1.resources
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi_Library\bin\Debug\SiCandi_Library.dll.config
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi_Library\bin\Debug\SiCandi_Library.dll
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi_Library\bin\Debug\SiCandi_Library.pdb
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.dll
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi_Library\bin\Debug\MySql.Data.dll
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi_Library\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.xml
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.csprojResolveAssemblyReference.cache
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.Migrations.INICIAL.resources
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.Migrations.INICIAL1.resources
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.csproj.GenerateResource.Cache
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.dll
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.pdb
+C:\Users\Chriktian\Desktop\gym\SiCandi_Library\SiCandi_Library\bin\Debug\SiCandi_Library.dll.config
+C:\Users\Chriktian\Desktop\gym\SiCandi_Library\SiCandi_Library\bin\Debug\SiCandi_Library.dll
+C:\Users\Chriktian\Desktop\gym\SiCandi_Library\SiCandi_Library\bin\Debug\SiCandi_Library.pdb
+C:\Users\Chriktian\Desktop\gym\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.dll
+C:\Users\Chriktian\Desktop\gym\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Chriktian\Desktop\gym\SiCandi_Library\SiCandi_Library\bin\Debug\MySql.Data.dll
+C:\Users\Chriktian\Desktop\gym\SiCandi_Library\SiCandi_Library\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Chriktian\Desktop\gym\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.xml
+C:\Users\Chriktian\Desktop\gym\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Chriktian\Desktop\gym\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.csprojResolveAssemblyReference.cache
+C:\Users\Chriktian\Desktop\gym\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.Migrations.INICIAL.resources
+C:\Users\Chriktian\Desktop\gym\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.Migrations.INICIAL1.resources
+C:\Users\Chriktian\Desktop\gym\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.csproj.GenerateResource.Cache
+C:\Users\Chriktian\Desktop\gym\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.dll
+C:\Users\Chriktian\Desktop\gym\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.pdb
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi_Library\bin\Debug\SiCandi_Library.dll.config
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi_Library\bin\Debug\SiCandi_Library.dll
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi_Library\bin\Debug\SiCandi_Library.pdb
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.dll
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi_Library\bin\Debug\MySql.Data.dll
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi_Library\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.xml
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.Migrations.INICIAL.resources
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.Migrations.INICIAL1.resources
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.csproj.GenerateResource.Cache
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.dll
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.pdb
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi_Library\bin\Debug\SiCandi_Library.dll.config
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi_Library\bin\Debug\SiCandi_Library.dll
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi_Library\bin\Debug\SiCandi_Library.pdb
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.dll
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi_Library\bin\Debug\MySql.Data.dll
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi_Library\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.xml
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.Migrations.INICIAL.resources
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.Migrations.INICIAL1.resources
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.csproj.GenerateResource.Cache
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.dll
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.pdb
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.csprojResolveAssemblyReference.cache
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi_Library\bin\Debug\SiCandi_Library.dll.config
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi_Library\bin\Debug\SiCandi_Library.dll
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi_Library\bin\Debug\SiCandi_Library.pdb
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.dll
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi_Library\bin\Debug\MySql.Data.dll
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi_Library\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.xml
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.csprojResolveAssemblyReference.cache
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.Migrations.INICIAL.resources
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.Migrations.INICIAL1.resources
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.csproj.GenerateResource.Cache
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.dll
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.pdb
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi_Library\bin\Debug\SiCandi_Library.dll.config
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi_Library\bin\Debug\SiCandi_Library.dll
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi_Library\bin\Debug\SiCandi_Library.pdb
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.dll
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi_Library\bin\Debug\MySql.Data.dll
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi_Library\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.xml
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi_Library\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.csprojResolveAssemblyReference.cache
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.Migrations.INICIAL.resources
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.Migrations.INICIAL1.resources
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.csproj.GenerateResource.Cache
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.dll
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi_Library\obj\Debug\SiCandi_Library.pdb

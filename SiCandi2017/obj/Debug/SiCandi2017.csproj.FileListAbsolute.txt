@@ -1,0 +1,446 @@
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi2017.exe.config
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi2017.exe
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi2017.pdb
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi2017\bin\Debug\AForge.dll
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi2017\bin\Debug\AForge.Video.DirectShow.dll
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi2017\bin\Debug\AForge.Video.dll
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi2017\bin\Debug\EntityFramework.dll
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi2017\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi2017\bin\Debug\MySql.Data.dll
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi2017\bin\Debug\MySql.Data.Entity.EF6.dll
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi_Library.dll
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi_Library.pdb
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi2017\bin\Debug\AForge.xml
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi2017\bin\Debug\AForge.Video.xml
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi2017\bin\Debug\AForge.Video.DirectShow.xml
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi2017\bin\Debug\EntityFramework.xml
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi2017\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.csprojResolveAssemblyReference.cache
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Properties.Resources.resources
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmActualizarCandidata.resources
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmActualizarMunicipio.resources
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmBuscarCandidata.resources
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmBuscarMunicipio.resources
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmIniciarSesion.resources
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmLogin.resources
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmMenu.resources
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmRegistroCandidata.resources
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmRegistroMunicipio.resources
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.csproj.GenerateResource.Cache
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.exe
+c:\users\hernandez\documents\visual studio 2015\Projects\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.pdb
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi2017.exe.config
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.exe
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.pdb
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi2017.exe
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi2017.pdb
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi2017\bin\Debug\AForge.dll
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi2017\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi2017\bin\Debug\AForge.Video.dll
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi2017\bin\Debug\EntityFramework.dll
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi2017\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi2017\bin\Debug\MySql.Data.dll
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi2017\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi_Library.dll
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi_Library.pdb
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi2017\bin\Debug\AForge.xml
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi2017\bin\Debug\AForge.Video.xml
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi2017\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi2017\bin\Debug\EntityFramework.xml
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi2017\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.csprojResolveAssemblyReference.cache
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Properties.Resources.resources
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmActualizarCandidata.resources
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmActualizarMunicipio.resources
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmBuscarCandidata.resources
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmBuscarMunicipio.resources
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmIniciarSesion.resources
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmLogin.resources
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmMenu.resources
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmRegistroCandidata.resources
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmRegistroMunicipio.resources
+C:\Users\HERNANDEZ\Downloads\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.csproj.GenerateResource.Cache
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi2017.exe.config
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.exe
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.pdb
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi2017.exe
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi2017.pdb
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi2017\bin\Debug\AForge.dll
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi2017\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi2017\bin\Debug\AForge.Video.dll
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi2017\bin\Debug\EntityFramework.dll
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi2017\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi2017\bin\Debug\MySql.Data.dll
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi2017\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi_Library.dll
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi_Library.pdb
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi2017\bin\Debug\AForge.xml
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi2017\bin\Debug\AForge.Video.xml
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi2017\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi2017\bin\Debug\EntityFramework.xml
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi2017\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.csprojResolveAssemblyReference.cache
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Properties.Resources.resources
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmActualizarCandidata.resources
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmActualizarMunicipio.resources
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmBuscarCandidata.resources
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmBuscarMunicipio.resources
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmIniciarSesion.resources
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmLogin.resources
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmMenu.resources
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmRegistroCandidata.resources
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmRegistroMunicipio.resources
+C:\Users\Jose Ojeda\Desktop\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.csproj.GenerateResource.Cache
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi2017.exe.config
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi2017.exe
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi2017.pdb
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\bin\Debug\AForge.dll
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\bin\Debug\AForge.Video.dll
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\bin\Debug\EntityFramework.dll
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\bin\Debug\MySql.Data.dll
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi_Library.dll
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi_Library.pdb
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\bin\Debug\AForge.xml
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\bin\Debug\AForge.Video.xml
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\bin\Debug\EntityFramework.xml
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.csprojResolveAssemblyReference.cache
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Properties.Resources.resources
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmActualizarCandidata.resources
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmActualizarMunicipio.resources
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmBuscarCandidata.resources
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmBuscarMunicipio.resources
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmIniciarSesion.resources
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmLogin.resources
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmMenu.resources
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmRegistroCandidata.resources
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmRegistroMunicipio.resources
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.csproj.GenerateResource.Cache
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.exe
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.pdb
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\bin\Debug\FlashControlV71.dll
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\bin\Debug\stdole.dll
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmMenuReportes.resources
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Reports.FrmReporteCandidataConvocatoria.resources
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Reports.frmCandidataPorMunicipio.resources
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Reports.frmCandidatasMasLike.resources
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Reports.frmCandidataPorCapturista.resources
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Reports.frmGanadoraPorMunicipio.resources
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmActualizarUsuario.resources
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmBuscarUsuario.resources
+C:\Users\HERNANDEZ\Downloads\gym\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmRegistrarUsuario.resources
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi2017.exe.config
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi2017.exe
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi2017.pdb
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\bin\Debug\AForge.dll
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\bin\Debug\AForge.Video.dll
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\bin\Debug\EntityFramework.dll
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\bin\Debug\MySql.Data.dll
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi_Library.dll
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi_Library.pdb
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\bin\Debug\AForge.xml
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\bin\Debug\AForge.Video.xml
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\bin\Debug\EntityFramework.xml
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.csprojResolveAssemblyReference.cache
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Properties.Resources.resources
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Reports.frmCandidataPorCapturista.resources
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Reports.frmCandidataPorMunicipio.resources
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Reports.frmCandidatasMasLike.resources
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Reports.frmGanadoraPorMunicipio.resources
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Reports.FrmReporteCandidataConvocatoria.resources
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmActualizarCandidata.resources
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmActualizarMunicipio.resources
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmActualizarUsuario.resources
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmBuscarCandidata.resources
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmBuscarMunicipio.resources
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmBuscarUsuario.resources
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmIniciarSesion.resources
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmLogin.resources
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmMenu.resources
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmMenuReportes.resources
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmRegistrarUsuario.resources
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmRegistroCandidata.resources
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmRegistroMunicipio.resources
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.csproj.GenerateResource.Cache
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.exe
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.pdb
+C:\Users\Chriktian\Desktop\gym\Nueva carpeta\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.Inicio.resources
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi2017.exe.config
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.exe
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.pdb
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi2017.exe
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi2017.pdb
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\bin\Debug\AForge.dll
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\bin\Debug\AForge.Video.dll
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\bin\Debug\EntityFramework.dll
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\bin\Debug\FlashControlV71.dll
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\bin\Debug\MySql.Data.dll
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi_Library.dll
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\bin\Debug\stdole.dll
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi_Library.pdb
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\bin\Debug\AForge.xml
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\bin\Debug\AForge.Video.xml
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\bin\Debug\EntityFramework.xml
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.csprojResolveAssemblyReference.cache
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Properties.Resources.resources
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Reports.frmCandidataPorCapturista.resources
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Reports.frmCandidataPorMunicipio.resources
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Reports.frmCandidatasMasLike.resources
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Reports.frmGanadoraPorMunicipio.resources
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Reports.FrmReporteCandidataConvocatoria.resources
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmActualizarCandidata.resources
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmActualizarMunicipio.resources
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmActualizarUsuario.resources
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmBuscarCandidata.resources
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmBuscarMunicipio.resources
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmBuscarUsuario.resources
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmIniciarSesion.resources
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmLogin.resources
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmMenu.resources
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmMenuReportes.resources
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmRegistrarUsuario.resources
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmRegistroCandidata.resources
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmRegistroMunicipio.resources
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.Inicio.resources
+C:\Users\HERNANDEZ\Downloads\Windows Loader\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.csproj.GenerateResource.Cache
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi2017.exe.config
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.exe
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.pdb
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi2017.exe
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi2017.pdb
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\AForge.dll
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\AForge.Video.dll
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\EntityFramework.dll
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\FlashControlV71.dll
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\MySql.Data.dll
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi_Library.dll
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\stdole.dll
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi_Library.pdb
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\AForge.xml
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\AForge.Video.xml
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\EntityFramework.xml
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.csprojResolveAssemblyReference.cache
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Properties.Resources.resources
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Reports.frmCandidataPorCapturista.resources
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Reports.frmCandidataPorMunicipio.resources
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Reports.frmCandidatasMasLike.resources
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Reports.frmGanadoraPorMunicipio.resources
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Reports.FrmReporteCandidataConvocatoria.resources
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmActualizarCandidata.resources
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmActualizarMunicipio.resources
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmActualizarUsuario.resources
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmBuscarCandidata.resources
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmBuscarMunicipio.resources
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmBuscarUsuario.resources
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmIniciarSesion.resources
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmLogin.resources
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmMenu.resources
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmMenuReportes.resources
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmRegistrarUsuario.resources
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmRegistroCandidata.resources
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmRegistroMunicipio.resources
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.Inicio.resources
+C:\Users\HERNANDEZ\Downloads\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.csproj.GenerateResource.Cache
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi2017.exe.config
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi2017.exe
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi2017.pdb
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\AForge.dll
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\AForge.Video.dll
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\EntityFramework.dll
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\FlashControlV71.dll
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\MySql.Data.dll
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi_Library.dll
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\stdole.dll
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\SiCandi_Library.pdb
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\AForge.xml
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\AForge.Video.xml
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\EntityFramework.xml
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.csprojResolveAssemblyReference.cache
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Properties.Resources.resources
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Reports.frmCandidataPorCapturista.resources
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Reports.frmCandidataPorMunicipio.resources
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Reports.frmCandidatasMasLike.resources
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Reports.frmGanadoraPorMunicipio.resources
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Reports.FrmReporteCandidataConvocatoria.resources
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmActualizarCandidata.resources
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmActualizarMunicipio.resources
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmActualizarUsuario.resources
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmBuscarCandidata.resources
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmBuscarMunicipio.resources
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmBuscarUsuario.resources
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmIniciarSesion.resources
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmLogin.resources
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmMenu.resources
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmMenuReportes.resources
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmRegistrarUsuario.resources
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmRegistroCandidata.resources
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmRegistroMunicipio.resources
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.Vistas.Inicio.resources
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.csproj.GenerateResource.Cache
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.exe
+C:\Users\Paola\Desktop\Proyecto Final Chilo Noe\SiCandi_Library\SiCandi2017\obj\Debug\SiCandi2017.pdb
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\bin\Debug\SiCandi2017.exe.config
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\obj\Debug\SiCandi2017.exe
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\obj\Debug\SiCandi2017.pdb
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\bin\Debug\SiCandi2017.exe
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\bin\Debug\SiCandi2017.pdb
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\bin\Debug\AForge.dll
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\bin\Debug\AForge.Video.dll
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\bin\Debug\EntityFramework.dll
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\bin\Debug\FlashControlV71.dll
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\bin\Debug\MySql.Data.dll
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\bin\Debug\SiCandi_Library.dll
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\bin\Debug\stdole.dll
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\bin\Debug\SiCandi_Library.pdb
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\bin\Debug\AForge.xml
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\bin\Debug\AForge.Video.xml
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\bin\Debug\EntityFramework.xml
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\obj\Debug\SiCandi2017.csprojResolveAssemblyReference.cache
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\obj\Debug\SiCandi2017.Properties.Resources.resources
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\obj\Debug\SiCandi2017.Reports.frmCandidataPorCapturista.resources
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\obj\Debug\SiCandi2017.Reports.frmCandidataPorMunicipio.resources
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\obj\Debug\SiCandi2017.Reports.frmCandidatasMasLike.resources
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\obj\Debug\SiCandi2017.Reports.frmGanadoraPorMunicipio.resources
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\obj\Debug\SiCandi2017.Reports.FrmReporteCandidataConvocatoria.resources
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmActualizarCandidata.resources
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmActualizarMunicipio.resources
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmActualizarUsuario.resources
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmBuscarCandidata.resources
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmBuscarMunicipio.resources
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmBuscarUsuario.resources
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmIniciarSesion.resources
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmLogin.resources
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmMenu.resources
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmMenuReportes.resources
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmRegistrarUsuario.resources
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmRegistroCandidata.resources
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\obj\Debug\SiCandi2017.Vistas.frmRegistroMunicipio.resources
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\obj\Debug\SiCandi2017.Vistas.Inicio.resources
+C:\Users\Paola\Desktop\P final\P-Final\SiCandi2017\obj\Debug\SiCandi2017.csproj.GenerateResource.Cache
